@@ -37,6 +37,6 @@ public class LoginSteps {
 
     @Then("I should be taken to the product page")
     public void i_should_see_product_page() {
-        // Add verification logic here
+        
     }
 }
